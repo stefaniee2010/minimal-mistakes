@@ -1,5 +1,6 @@
 # main links
 main:
+<<<<<<< HEAD
   - title: "Home"
     url: https://stefaniee2010.github.io/minimal-mistakes/
   - title: "About"
@@ -10,3 +11,13 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+=======
+  - title: "About"
+     url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Sample Posts"
+     url: /year-archive/
+  - title: "Sample Collections"
+     url: /collection-archive/
+  - title: "Sitemap"
+     url: /sitemap/
+>>>>>>> 5a8e4287334270797a8f83714438e08daeb161cc
