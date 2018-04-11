@@ -4,15 +4,15 @@
   "description": "Minimal Mistakes Jekyll theme npm build scripts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "https://github.com/stefaniee2010/minimal-mistakes.git"
   },
   "keywords": ["jekyll", "theme", "minimal"],
   "author": "Michael Rose",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
+    "url": "https://github.com/stefaniee2010/minimal-mistakes/issues"
   },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+  "homepage": "https://stefaniee2010.github.io/minimal-mistakes/",
   "engines": {
     "node": ">= 0.10.0"
   },
