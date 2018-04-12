@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "The Gray Hat Witch"
 title_separator          : "-"
 name                     : "Takasaki"
-description              : "An amazing website."
+description              : "A blog about technology and books."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -99,8 +99,8 @@ analytics:
 author:
   name             : "Takasaki"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "China"
+  bio              : "A blog about ."
+  location         : "Manchuria"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -110,7 +110,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/Takasak1"
   gitlab           :
   google_plus      :
   keybase          :
